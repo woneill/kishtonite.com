@@ -1,6 +1,5 @@
 # kishtonite.com
 
-Test
-* 1
-* 2
-* 3
+* Don't like cold foods
+* Don't like pickles
+* Don't like bologna
