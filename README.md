@@ -16,28 +16,35 @@
  4. repellents
 
 ## List
-* cold sandwiches
-* pickles
-* bologna
-* eggs
-* resturants that "you have to be good at", such as mongolian BBQ
-* pretentious pancakes
+* Cold sandwiches
+* Pickles
+* Bologna
+* Eggs (especially on burgers) -- because of a childhood dream
+* Restaurants that "you have to be good at", such as Mongolian BBQ
+* Newly opened restaurants
+* Pretentious pancakes
 * VW
 * Apple (Company)
-* friendly cname entries
-* shared home over NFS
-* low lit work areas
+* Friendly CNAME entries
+* Shared home over NFS
+* Low-lit work areas
 * NTP on VMs
 * Thornton Place
 * Game of Thrones
-* DaVita Drivers
+* DaVita drivers
 * Beets
 * Cauliflower
 * Broccoli
-* Corn Beef
+* Corned beef
 * SXSW
-* Bear Claws
+* Bear claws
 * Pearl Jam
-* Fried Eggs on Burgers
-* Hipchat
+* HipChat
 * Trend IMSS
+* Joe Nacchio
+* Ubuntu
+* Complainy Hulu customers
+* Places called "Fish Tacos"
+* Red ants
+* Tulsa, OK
+* Going south of Alameda
