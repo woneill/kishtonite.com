@@ -23,7 +23,7 @@
 * resturants that "you have to be good at", such as mongolian BBQ
 * pretentious pancakes
 * VW
-* Apple
+* Apple (Company)
 * friendly cname entries
 * shared home over NFS
 * low lit work areas
