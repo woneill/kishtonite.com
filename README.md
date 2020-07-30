@@ -1,6 +1,6 @@
 # kishtonite.com
 
-## pronunciation: /\kiSH(t)nt/
+## pronunciation: /kɪʃ/tʌ/naɪt/ or /KISH/TUH/NYT/
 
 ### definition
  1. things that make our SA Team Lead a less than happy camper.
