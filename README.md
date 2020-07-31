@@ -63,7 +63,7 @@
 * I hate java
 * Douche nozzle
 * Dude, stop cutting into our ESOP
-* Go f*ck yourself!
-* F*ck you, f*ck you, you're cool, and f*ck you
-* Um no, no, go f*ck yourself, and no!
+* Go f\*ck yourself!
+* F\*ck you, f\*ck you, you're cool, and f\*ck you
+* Um no, no, go f\*ck yourself, and no!
 * The "Triple 7 sigh" -- A deep, audible sigh anytime a dev resorted to `chmod 777 ...`
