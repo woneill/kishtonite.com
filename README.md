@@ -45,6 +45,4 @@
 * Ubuntu
 * Complainy Hulu customers
 * Places called "Fish Tacos"
-* Red ants
-* Tulsa, OK
 * Going south of Alameda
