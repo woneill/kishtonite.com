@@ -52,7 +52,6 @@
 * Wait a tic
 * Al, I'll miss you the most
 * I have the sys admin physique
-* Words have meaning!
 * Everything's coming up Milhouse
 * It's not "slash user", it's "slash U, S, R"
 * Cold food is for peasants
