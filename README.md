@@ -46,3 +46,4 @@
 * Complainy Hulu customers
 * Places called "Fish Tacos"
 * Going south of Alameda
+* Stone Temple Pilots
