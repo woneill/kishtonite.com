@@ -47,6 +47,7 @@
 * Complainy Hulu customers
 * Places called "Fish Tacos"
 * Going south of Alameda
+* Stone Temple Pilots
 
 ## Quotes
 * Wait a tic
@@ -54,7 +55,6 @@
 * I have the sys admin physique
 * Everything's coming up Milhouse
 * It's not "slash user", it's "slash U, S, R"
-* Cold food is for peasants
 * Subarus are so hot
 * Davita drivers are asshats!
 * Get off my lawn!
@@ -63,6 +63,5 @@
 * Douche nozzle
 * Dude, stop cutting into our ESOP
 * Go f\*ck yourself!
-* F\*ck you, f\*ck you, you're cool, and f\*ck you
 * Um no, no, go f\*ck yourself, and no!
 * The "Triple 7 sigh" -- A deep, audible sigh anytime a dev resorted to `chmod 777 ...`
