@@ -24,6 +24,7 @@
 * Newly opened restaurants
 * Pretentious pancakes
 * VW
+* Hawaiian pizza
 * Apple (Company)
 * Friendly CNAME entries
 * Shared home over NFS
