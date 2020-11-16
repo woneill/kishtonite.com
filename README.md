@@ -48,3 +48,5 @@
 * Places called "Fish Tacos"
 * Going south of Alameda
 * Stone Temple Pilots
+* DC Stickers on cars
+* People turning on the office lights
