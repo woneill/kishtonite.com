@@ -48,4 +48,4 @@
 * Places called "Fish Tacos"
 * Going south of Alameda
 * Stone Temple Pilots
-* 777
+* chmod 777
