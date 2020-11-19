@@ -40,6 +40,7 @@
 * SXSW
 * Bear claws
 * Pearl Jam
+* Freshcraft bar
 * HipChat
 * Trend IMSS
 * Joe Nacchio
@@ -48,3 +49,20 @@
 * Places called "Fish Tacos"
 * Going south of Alameda
 * Stone Temple Pilots
+
+## Quotes
+* Wait a tic
+* Al, I'll miss you the most
+* I have the sys admin physique
+* Everything's coming up Milhouse
+* It's not "slash user", it's "slash U, S, R"
+* Subarus are so hot
+* Davita drivers are asshats!
+* Get off my lawn!
+* Let's go back. First, there were the dinosaurs
+* I hate java
+* Douche nozzle
+* Dude, stop cutting into our ESOP
+* Go f\*ck yourself!
+* Um no, no, go f\*ck yourself, and no!
+* The "Triple 7 sigh" -- A deep, audible sigh anytime a dev resorted to `chmod 777 ...`
