@@ -49,6 +49,7 @@
 * Places called "Fish Tacos"
 * Going south of Alameda
 * Stone Temple Pilots
+* Alvin and the Chipmunks
 
 ## Quotes
 * Wait a tic
