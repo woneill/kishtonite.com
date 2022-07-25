@@ -25,7 +25,6 @@
 * Restaurants that "you have to be good at", such as Mongolian BBQ
 * Newly opened restaurants
 * Pretentious pancakes
-* VW
 * Hawaiian pizza
 * Apple (Company)
 * Friendly CNAME entries
